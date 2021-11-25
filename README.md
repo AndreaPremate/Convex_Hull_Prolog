@@ -1,4 +1,4 @@
-# Convex_Hull (prolog and lisp)
+# Convex_Hull (prolog)
 
 ## Obiettivo
 Il progetto consiste nel determinare, data una serie di punti, la corrispondente
